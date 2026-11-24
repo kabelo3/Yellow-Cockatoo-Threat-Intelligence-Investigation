@@ -28,7 +28,7 @@ Red Canary identifies the threat cluster associated with the SHA256 hash as **Ye
 
 Add the relevant screenshot below:
 
-`![Yellow Cockatoo threat cluster identification](../screenshots/question-01.png)`
+![Yellow Cockatoo threat cluster identification](../screenshots/question-01.png)
 
 ## Security Relevance
 
