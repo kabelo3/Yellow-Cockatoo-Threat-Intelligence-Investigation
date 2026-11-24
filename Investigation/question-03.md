@@ -31,7 +31,7 @@ VirusTotal reports the following creation timestamp:
 
 Add the relevant screenshot below:
 
-`![VirusTotal malware creation timestamp](../screenshots/question-03.png)`
+![VirusTotal malware creation timestamp](../screenshots/question-03.png)
 
 ## Security Relevance
 
