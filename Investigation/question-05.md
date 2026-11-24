@@ -29,7 +29,7 @@ The identified dropped file is:
 
 Add the relevant screenshot below:
 
-`![SolarMarker dropped file identification](../screenshots/question-05.png)`
+![SolarMarker dropped file identification](../screenshots/question-05.png)
 
 ## Security Relevance
 
