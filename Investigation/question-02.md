@@ -30,7 +30,7 @@ VirusTotal displayed the following filename associated with the submitted SHA256
 
 Add the relevant screenshot below:
 
-`![VirusTotal malware filename](../screenshots/question-02.png)`
+![VirusTotal malware filename](../screenshots/question-02.png)
 
 ## Security Relevance
 
