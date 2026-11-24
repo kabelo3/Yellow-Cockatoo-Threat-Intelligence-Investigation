@@ -32,7 +32,7 @@ The VirusTotal Behavior analysis identifies the following domain:
 
 Add the relevant screenshot below:
 
-`![VirusTotal C2 domain identification](../screenshots/question-06.png)`
+![VirusTotal C2 domain identification](../screenshots/question-06.png)
 
 ## Security Relevance
 
