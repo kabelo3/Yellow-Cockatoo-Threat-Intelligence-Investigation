@@ -31,7 +31,7 @@ VirusTotal reports the malware sample's first submission timestamp as:
 
 Add the relevant screenshot below:
 
-`![VirusTotal first submission timestamp](../screenshots/question-04.png)`
+![VirusTotal first submission timestamp](../screenshots/question-04.png)
 
 ## Security Relevance
 
